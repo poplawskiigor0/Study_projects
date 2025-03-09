@@ -1,0 +1,9 @@
+# ninja log v5
+18	633	7021358316595109	CMakeFiles/Project_elevator.dir/Human_functions.cpp.obj	44e7eefb8205829e
+766	972	7021358320117676	Project_elevator.exe	c475fa48338b5dd2
+11	673	7021358317136698	CMakeFiles/Project_elevator.dir/main.cpp.obj	a7a25b83fd275315
+5	765	7021358318117518	CMakeFiles/Project_elevator.dir/Elevator_functions.cpp.obj	28b6efbd4c4b87b5
+24	686	7021358317171880	CMakeFiles/Project_elevator.dir/SkyScrapper_functions.cpp.obj	3f8eedec69ae3e83
+1	220	7021358323130017	build.ninja	f6b203703030b467
+5	548	7021359460007770	CMakeFiles/Project_elevator.dir/Human_functions.cpp.obj	44e7eefb8205829e
+549	783	7021359462305581	Project_elevator.exe	c475fa48338b5dd2
