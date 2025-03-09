@@ -1,0 +1,2 @@
+ELEVATOR 2 1 0 |  | 20 Shanghai Tower
+CLEANINGPLATFORM 500 100 5 0 |  | 20 Shanghai Tower
