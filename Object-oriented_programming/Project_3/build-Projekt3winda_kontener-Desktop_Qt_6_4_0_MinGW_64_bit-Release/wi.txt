@@ -1,0 +1,4 @@
+800 0 1 | Jan 80 Kucharz /  | 20 Shanghai
+800 0 1 | Anna 50 Prawnik /  | 20 Shanghai
+800 0 0 |  | 20 Shanghai
+800 0 0 |  | 20 Shanghai

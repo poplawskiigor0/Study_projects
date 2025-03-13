@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-97fcec5050e60a236f59.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Projekt3winda_kontener",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Projekt3winda_kontener::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projekt3winda_kontener-Debug-75a34479007fb20b3c04.json",
+					"name" : "Projekt3winda_kontener",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/build-Projekt3winda_kontener-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/Projekt3winda_kontener"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

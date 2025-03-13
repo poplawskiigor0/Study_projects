@@ -1,0 +1,4 @@
+CLEANINGPLATFORM 300 20 4 3 | dzan 80 czan / zbychu 50 grubol / marian 40 warian /  | 20 Shanghai
+ELEVATOR 400 4 2 | re 30 yo / po 40 kung /  | 20 Shanghai
+ROOM 4 0 t 3 0 |  | 20 Shanghai
+ELEVATOR 400 4 0 |  | 20 Shanghai Tower
