@@ -22,7 +22,7 @@ public:
 
 //private:
     int m_floors=20;
-    string m_adress="WTC"; //name "WTC" to get easter egg <3
+    string m_adress=""; 
 };
 
 #endif // SKYSCRAPER_H
