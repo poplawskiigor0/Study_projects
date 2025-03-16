@@ -1,0 +1,7 @@
+C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/build-Projekt3winda_kontener-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Projekt3winda_kontener.dir
+C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/build-Projekt3winda_kontener-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/build-Projekt3winda_kontener-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/build-Projekt3winda_kontener-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/build-Projekt3winda_kontener-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/build-Projekt3winda_kontener-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/igors/OneDrive/Dokumenty/lekcje/PROBI/projekt3/build-Projekt3winda_kontener-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir

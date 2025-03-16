@@ -1,0 +1,4 @@
+ROOM 3 0 kuchnia 2 1 | jan 30 dzban /  | 20  Shanghai Tower
+
+CLEANINGPLATFORM 300 20 4 3 | dzan 80 czan / zbychu 50 grubol / marian 40 warian /  | 20  Shanghai Tower
+

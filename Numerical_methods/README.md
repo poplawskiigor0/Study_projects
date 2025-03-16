@@ -1,0 +1,1 @@
+A collection of projects on numerical methods, each project contains a report describing the assumptions and results

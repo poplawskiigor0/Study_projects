@@ -1,0 +1,3 @@
+800 2 2 | Zbyszek 70 Ogrodnik / Anna 70 Urzednik /  | 20 Shanghai Tower
+2 0 Kuchnia 6 3 | Zbyszek 70 Ogrodnik / Anna 70 Urzednik / Jan 700 Krytyk kulinarny /  | 20 Shanghai Tower
+500 100 6 1 | Jan 700 Krytyk kulinarny /  | 20 Shanghai Tower

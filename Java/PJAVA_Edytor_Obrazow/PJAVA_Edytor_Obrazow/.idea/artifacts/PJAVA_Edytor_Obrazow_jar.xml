@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PJAVA_Edytor_Obrazow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PJAVA_Edytor_Obrazow_jar</output-path>
+    <root id="archive" name="PJAVA_Edytor_Obrazow.jar">
+      <element id="module-output" name="PJAVA_Edytor_Obrazow" />
+    </root>
+  </artifact>
+</component>
