@@ -1,3 +1,0 @@
-P14SpaceForPeople3 0 kuchnia 2 1 | jan 30 dzban /  | 20 Shanghai
-P14SpaceForPeople300 20 4 3 | dzan 80 czan / zbychu 50 grubol / marian 40 warian /  | 20 Shanghai
-P14SpaceForPeople4 0 salon 3 0 |  | 20 Shanghai Tower

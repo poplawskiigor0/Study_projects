@@ -1,3 +1,0 @@
-4Room 4 0 kuchnia 3 0 |  | 20 Shanghai Tower
-8Elevator 344 1 0 |  | 20 Shanghai Tower
-16CleaningPlatform 300 45 1 1 | jan 34 han /  | 20 Shanghai Tower
