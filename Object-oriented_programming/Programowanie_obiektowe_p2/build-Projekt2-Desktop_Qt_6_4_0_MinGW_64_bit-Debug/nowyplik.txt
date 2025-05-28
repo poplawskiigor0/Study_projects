@@ -1,3 +1,0 @@
-ROOM 4 0 kuchnia 1 2 | Dzieciak 3 Noworodek / Anna 60 Ziomal /  | 20 Shanghai Tower
-ELEVATOR 700 2 2 | Jon 70 Snow / Man 50 Han /  | 20 Shanghai Tower
-CLEANINGPLATFORM 200 20 2 1 | Olek 40 Bolek /  | 20 Shanghai Tower
