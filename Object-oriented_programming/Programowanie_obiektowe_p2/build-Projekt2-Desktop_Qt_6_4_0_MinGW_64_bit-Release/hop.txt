@@ -1,2 +1,0 @@
-CLEANINGPLATFORM 500 100 2 2 | roe 300 woe / jan 50 dzban /  | 20 Shanghai Tower
-ELEVATOR 200 4 0 |  | 20 Shanghai Tower

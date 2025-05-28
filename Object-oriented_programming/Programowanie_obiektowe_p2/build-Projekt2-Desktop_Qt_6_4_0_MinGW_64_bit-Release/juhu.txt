@@ -1,2 +1,0 @@
-ROOM 2 0 kuchnia 1 0 |  | 20 Shanghai Tower
-CLEANINGPLATFORM 700 300 4 0 |  | 20 Shanghai Tower

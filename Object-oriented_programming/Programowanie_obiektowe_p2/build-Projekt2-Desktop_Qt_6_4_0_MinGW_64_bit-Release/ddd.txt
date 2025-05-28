@@ -1,3 +1,0 @@
-ROOM 2 0 keffs 1 2 | jan 40 def / dere 39 deeeee /  | 20 Shanghai Tower
-ROOM 3 0 ttttt 2 0 |  | 20 Shanghai Tower
-ELEVATOR 566 3 0 |  | 20 Shanghai Tower
